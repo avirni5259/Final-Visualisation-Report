@@ -1,0 +1,17 @@
+Category,Season,mean,median,count
+Accessories,Fall,61.339506172839506,62.0,324
+Accessories,Spring,56.501661129568106,56.0,301
+Accessories,Summer,60.98717948717949,63.0,312
+Accessories,Winter,60.366336633663366,60.0,303
+Clothing,Fall,61.405152224824356,61.0,427
+Clothing,Spring,60.99559471365639,62.0,454
+Clothing,Summer,56.56372549019608,55.0,408
+Clothing,Winter,60.879464285714285,63.0,448
+Footwear,Fall,63.713235294117645,64.0,136
+Footwear,Spring,58.61963190184049,58.0,163
+Footwear,Summer,58.70625,59.0,160
+Footwear,Winter,60.57142857142857,63.0,140
+Outerwear,Fall,59.76136363636363,58.5,88
+Outerwear,Spring,54.629629629629626,53.0,81
+Outerwear,Summer,57.04,51.0,75
+Outerwear,Winter,57.025,53.5,80
